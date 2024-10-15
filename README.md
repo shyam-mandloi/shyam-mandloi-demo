@@ -2,4 +2,4 @@
 this is my first git repository.
 <br>
 <br>
-author - shyam mandloi
+author - shyam mandloi(bhu)
